@@ -28,6 +28,6 @@ txdb <- TxDb.Hsapiens.UCSC.hg19.knownGene
 peakAnno <- annotatePeak(paste0(file_name, '.bed'), tssRegion=c(-3000, 3000), 
                            TxDb=txdb, annoDb="org.Hs.eg.db")
 
-pdf(paste0('histograms/', 'chip_seeker.', file_name, '.plotAnnoPie.pdf'))
+pdf(paste0('pie_charts/', 'chip_seeker.', file_name, '.plotAnnoPie.pdf'))
 plotAnnoPie(peakAnno)
 dev.off()
