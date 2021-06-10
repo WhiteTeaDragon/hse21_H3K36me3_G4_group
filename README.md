@@ -1,5 +1,19 @@
 # hse21_H3K36me3_G4_group
 
+Ссылка на презентацию: https://docs.google.com/presentation/d/1KfEcatNRX7WQDEpcnT8A6y3Tcj3nlGIiHynu5gXnj9o/edit?usp=sharing
+
+## Репозитории отдельных участников:
+
+H7: https://github.com/WhiteTeaDragon/hse21_H3K36me3_G4_human
+
+HCT116: https://github.com/yaolgaloktionova/hse21_H3K36me3_G4_human
+
+MCF-7: https://github.com/PolinaKananykina/hse21_H3K36me3_G4_human
+
+GM12878: https://github.com/amamedov/hse21_H3K36me3_G4_human
+
+HepG2: https://github.com/Sophie178/hse21_H3K36me3_G4_human
+
 Код для получения пересечения файлов:
 
 ``cd interseсt_bed_files``
