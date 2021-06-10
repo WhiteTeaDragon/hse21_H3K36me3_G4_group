@@ -14,6 +14,8 @@ GM12878: https://github.com/amamedov/hse21_H3K36me3_G4_human
 
 HepG2: https://github.com/Sophie178/hse21_H3K36me3_G4_human
 
+## Ссылка на сессию в геномном браузере: https://genome.ucsc.edu/s/nicka1106/hse21_H3K36me3_G4_group
+
 Код для получения пересечения файлов:
 
 ``cd interseсt_bed_files``
@@ -33,5 +35,3 @@ HepG2: https://github.com/Sophie178/hse21_H3K36me3_G4_human
 ``bedtools intersect -a total_intersection4.bed -b sorted.H3K36me3_MCF-7.intersect_with_G4_seq_Li_K.bed > total_intersection5.bed``
 
 ``cp total_intersection5.bed ../final_intersection.bed``
-
-### Ссылка на сессию в геномном браузере: https://genome.ucsc.edu/s/nicka1106/hse21_H3K36me3_G4_group
