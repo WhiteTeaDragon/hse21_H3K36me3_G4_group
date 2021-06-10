@@ -14,6 +14,8 @@ GM12878: https://github.com/amamedov/hse21_H3K36me3_G4_human
 
 HepG2: https://github.com/Sophie178/hse21_H3K36me3_G4_human
 
+HEK293: https://github.com/NickaKos11/hse21_H3K36me3_G4_human
+
 ## Ссылка на сессию в геномном браузере: https://genome.ucsc.edu/s/nicka1106/hse21_H3K36me3_G4_group
 
 Код для получения пересечения файлов:
